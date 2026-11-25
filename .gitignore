@@ -1,0 +1,5 @@
+# Local-only previews and generated files
+qa_render/
+node_modules/
+Thumbs.db
+.DS_Store
